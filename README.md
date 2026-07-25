@@ -1,9 +1,6 @@
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Johith-Tex&style=pixel&color=00f5d4&label=VISITORS" alt="Profile Views"/>
 </div>
-
-
 
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Johith-Tex — Full-Stack Dev | Game Creator | Bot Builder"/>
@@ -13,17 +10,19 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-
-
 ## Character Stats
 
 <div align="center">
+
 <table>
 <tr>
-<td width="420" valign="top" align="center">
+<td width="220" align="center" valign="middle">
 
-<img src="assets/avatar_me.png" width="180" alt="Johith-Tex Avatar"/>
+<img src="assets/avatar_me.png" width="280" alt="Johith-Tex Avatar"/>
 
+</td>
+
+<td width="420" valign="middle">
 
 Currently questing on **Gate to Oblivion** (UE5)
 
@@ -36,17 +35,11 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 `while(alive) { code(); sleep(maybe); }`
 
 </td>
+</tr>
+</table>
+
+</div>
 <td width="480" valign="top" align="center">
-
-<a href="https://github.com/Johith-Tex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johith-Tex&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&icon_color=ffbe0b&ring_color=00f5d4" width="100%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Johith-Tex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johith-Tex&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" width="100%"/>
-</a>
 
 </td>
 </tr>
@@ -55,7 +48,6 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 
 <br/>
 <img src="assets/divider.svg" width="100%"/>
-
 
 ## Inventory — Tech Stack
 
@@ -92,8 +84,6 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 <br/>
 <img src="assets/divider.svg" width="100%"/>
 
-
-
 ## Quest Log — Featured Projects
 
 <div align="center">
@@ -105,10 +95,11 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 <h3>Uzhavar AI</h3>
 
 <a href="https://github.com/Johith-Tex/uzhavar-ai">
-  <img src="https://img.shields.io/badge/UZHAVAR_AI-View_Project-00f5d4?style=for-the-badge&labelColor=0d1117" alt="Uzhavar AI"/>
+  <img src="assets/uzhavar-ai.png" alt="Uzhavar AI" width="60%/>
 </a>
 
 <br/><br/>
+
 <p><em>AI-powered agricultural platform empowering farmers with smart insights & predictions</em></p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -125,6 +116,7 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 </a>
 
 <br/><br/>
+
 <p><em>Epic action RPG built in Unreal Engine 5 — face the void, survive the unknown</em></p>
 <p>
   <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
@@ -144,6 +136,7 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 </a>
 
 <br/><br/>
+
 <p><em>Feature-rich Discord bot — moderation, fun commands, and your server's best companion</em></p>
 <p>
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
@@ -160,6 +153,7 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 </a>
 
 <br/><br/>
+
 <p><em>Personal portfolio site with a unique mascot-themed design that brings personality to the web</em></p>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -176,14 +170,12 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 <br/>
 <img src="assets/divider.svg" width="100%"/>
 
-
-
 ## Battle Stats
 
 <div align="center">
 
 <a href="https://github.com/Johith-Tex">
-  <img src="https://streak-stats.demolab.com?user=Johith-Tex&hide_border=true&background=0D1117&ring=00F5D4&fire=FFBE0B&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=161B22" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Johith-Tex&hide_border=true&background=0D1117&ring=00F5D4&fire=FFBE0B&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=161B22" width="100%"/>
 </a>
 
 <br/><br/>
@@ -196,8 +188,4 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 
 <br/>
 
-
 <img src="assets/footer.svg" width="100%"/>
-
-
-
