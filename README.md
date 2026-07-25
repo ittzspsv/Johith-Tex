@@ -95,7 +95,7 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 <h3>Uzhavar AI</h3>
 
 <a href="https://github.com/Johith-Tex/uzhavar-ai">
-  <img src="assets/uzhavar-ai.png" alt="Uzhavar AI" width="60%/>
+  <img src="assets/uzhavar-ai.png" alt="Uzhavar AI" width="60%"/>
 </a>
 
 <br/><br/>
